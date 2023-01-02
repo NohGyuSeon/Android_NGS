@@ -1,0 +1,22 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        maven { url 'https://jitpack.io' }
+        jcenter()
+    }
+}
+rootProject.name = "Application_6"
+include ':app'
+include ':app_permission'
+include ':app_permission_lib'
+include ':doitmission-11'
+include ':doitmission-12'

@@ -1,0 +1,23 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "Application_4"
+include ':app'
+include ':app_switch'
+include ':app_intent'
+include ':app_parcelable'
+include ':app_task'
+include ':app_cycle'
+include ':doitmission-07'
+include ':doitmission-08'

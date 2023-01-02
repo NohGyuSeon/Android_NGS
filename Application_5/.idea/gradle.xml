@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app_actionbar" />
+            <option value="$PROJECT_DIR$/app_menu" />
+            <option value="$PROJECT_DIR$/app_navigationdrawer" />
+            <option value="$PROJECT_DIR$/app_pager" />
+            <option value="$PROJECT_DIR$/app_search" />
+            <option value="$PROJECT_DIR$/app_tab1" />
+            <option value="$PROJECT_DIR$/app_tab2" />
+            <option value="$PROJECT_DIR$/app_viewerfragment" />
+            <option value="$PROJECT_DIR$/doitmission-09" />
+            <option value="$PROJECT_DIR$/doitmission-10" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

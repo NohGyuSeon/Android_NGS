@@ -1,0 +1,26 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "Application_5"
+include ':app'
+include ':app_viewerfragment'
+include ':app_menu'
+include ':app_actionbar'
+include ':app_search'
+include ':app_tab1'
+include ':app_tab2'
+include ':app_pager'
+include ':doitmission-09'
+include ':app_navigationdrawer'
+include ':doitmission-10'
